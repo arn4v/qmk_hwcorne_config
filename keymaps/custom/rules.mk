@@ -1,8 +1,5 @@
-VIA_ENABLE = yes
-VIAL_ENABLE = yes
-
-# Enable additional features
-COMBO_ENABLE = no
+# Enable features
+COMBO_ENABLE = yes
 MOUSEKEY_ENABLE = yes
 EXTRAKEY_ENABLE = yes
 NKRO_ENABLE = yes
